@@ -128,7 +128,6 @@ Content preservation (BERTScore)
 
 Fluency (GPT-2 perplexity)
 
-5. Results
 <img width="744" height="299" alt="image" src="https://github.com/user-attachments/assets/fbe11d8d-d0d4-4737-b1ea-0ee22309a8ff" />
 
 6. Interpretation of Results
